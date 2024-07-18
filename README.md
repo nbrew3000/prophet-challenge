@@ -91,7 +91,7 @@ Set up the Google search data for a Prophet forecasting model.
 
 After estimating the model, plot the forecast.
 
-Plot the individual time series components of the model
+Plot the individual time series components of the model. Chatgpt
 
 What time of day exhibits the greatest popularity? 
 
